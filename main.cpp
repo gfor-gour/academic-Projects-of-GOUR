@@ -192,8 +192,9 @@ int main()
 
     // game result
 
+    std::cout<<"Modified by GOUR,a soft. undergrad student\n\n" ;
     std::cout<<"Your score is : " <<(food-1)*10<<"\n\n";
-    std::cout<<"Game Over !!!\n\n";
+    std::cout<<"Game Over & takecare\n\n";
     getch();
     return 0;
 }
